@@ -1,0 +1,17 @@
+{
+    "apps": [
+      {
+        "name": "index",
+        "script": "index.js"
+      },
+      {
+        "name": "index2",
+        "script": "index2.js"
+      },
+      {
+        "name": "index3",
+        "script": "index3.js"
+      }
+    ]
+  }
+  
